@@ -1,0 +1,39 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    margin: 15px;
+  }
+  
+  #main {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(221, 174, 216);
+  }
+  
+  #title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  h2, h3, h4{
+    text-align: center;
+  }
+  
+  #img-div{
+    text-align: center;
+  }
+  
+  #image{
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+    height: auto;
+    width: 35%;
+    border-radius: 300px;
+  }
+  
+  #tribute-link{
+    text-align: center;
+    display: block;
+  }
